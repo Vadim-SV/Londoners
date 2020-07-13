@@ -1,12 +1,18 @@
 @font-face {
-font-family: 'SEGA LOGO FONT';
+font-family: 'Yesterday Dream';
 font-style: normal;
-font-weight: normal;
-src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+font-weight: bold;
+src: local('Yesterday Dream'), url('YesterdayDream.otf') format('otf');
 }
 
 h1{
-	font-family: "SEGA LOGO FONT";
+	font-family: "Yesterday Dream";
 	font-weight: 200;
-	color: blue;
+	color:black;
+}
+
+.homepage{
+	font-family: "Yesterday Dream";
+	font-weight: bold;
+	color:black;
 }

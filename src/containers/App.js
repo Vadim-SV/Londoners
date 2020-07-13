@@ -46,7 +46,8 @@ componentDidMount() {
    	})
   return (
   	<div className = 'tc' >
-     <h1 className = 'f1'>Crazy avatars</h1>
+     <h1 className = 'f1'>LONDONERS</h1>
+     <p className = "homepage">Find your perfect match</p>
 	<SearchBox  searchChange={onSearchChange}/>
      <Scroll>
         <CardList robots = {filteredRobots} />

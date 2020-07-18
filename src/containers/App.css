@@ -7,12 +7,13 @@ src: local('Yesterday Dream'), url('YesterdayDream.otf') format('otf');
 
 h1{
 	font-family: "Yesterday Dream";
-	font-weight: 200;
-	color:black;
+	font-weight: 500;
+	color:white;
+
 }
 
 .homepage{
 	font-family: "Yesterday Dream";
 	font-weight: bold;
-	color:black;
+	color:white;
 }

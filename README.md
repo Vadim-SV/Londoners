@@ -1,3 +1,11 @@
+This project is simple showcase of react JS and API skills. 
+
+The cards are created in reactJS and app calles thrid party APIs to insert avatar images.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
